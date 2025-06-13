@@ -1,0 +1,8 @@
+
+body { font-family: sans-serif; background: #f9fafb; margin: 0; padding: 0; }
+header, nav, footer { background: #1e3a8a; color: white; padding: 15px; text-align: center; }
+nav a { margin: 0 10px; color: white; text-decoration: none; }
+main { padding: 20px; }
+.capitulo { margin-bottom: 30px; }
+.reflexion { background: #e0f2fe; padding: 10px; border-left: 4px solid #0284c7; }
+footer { margin-top: 40px; font-size: 0.9em; color: #d1d5db; background: #1f2937; }
